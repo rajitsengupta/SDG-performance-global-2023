@@ -1,5 +1,5 @@
-# Share of climate related questions asked in Indian Parliament
-Read the full story here: [Funnels of inequality.](https://rajitsengupta.github.io/Parliament_Questions/)
+# The world's progress in SDGs
+Read the full story here: [Funnels of inequality.](https://github.com/rajitsengupta/SDG-performance-global-2023)
 
 ## Overview
 An analysis of the progress the world has made towards Sustainable Development Goals. 
