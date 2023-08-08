@@ -1,5 +1,5 @@
-# The world's progress in SDGs
-Read the full story here: [Funnels of inequality.](https://github.com/rajitsengupta/SDG-performance-global-2023)
+# SDG performance of the world
+Read the full story here: [Funnels of inequality.](https://rajitsengupta.github.io/SDG-performance-global-2023/)
 
 ## Overview
 An analysis of the progress the world has made towards Sustainable Development Goals. 
